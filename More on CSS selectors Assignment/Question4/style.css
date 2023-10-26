@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    height: 80vh;
+}
+button{
+    background-color: royalblue;
+    border: none;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding: 15px 30px;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 12px;
+    position: absolute;
+
+}
+
+button:hover{
+    box-shadow: 10px 5px 5px grey;
+    cursor: pointer;
+}
